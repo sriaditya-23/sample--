@@ -1,0 +1,24 @@
+it is a tool that allows you to package and application(website software script )along with all its dependencies like libraries, system, tools etc into a container
+A small portable unit which can be moves or shared easily to anywhere Such as a local machine, on another laptops or in servers or in another devices
+Benefits:
+portability--Build once run anywhere
+Isolation  --
+Fast deployment
+Light Weight process
+Easy Versioning
+
+for fast deployment We use vercel
+
+CICD
+COUNTINOUS INTEGRATION AND COUNTINOUS DEPLOYMENT
+--dEVELOPERS WRITE CODE AND REGULARLY PUSH TO THEIR REPOSITORY
+EVERY TIME SOMEONE PUSH CODEAN AUTOMATED BUILD AND TEST RUNS
+THIS HELPS CATCHING BUGSEARLY AND ENSURE THAT NEW CODE WORKS WELL WITH EXISTING CODE
+
+COUNTINOUS DELIVERY(CD)
+After the code pass all test ot is automatically prepare for release
+The code is [ut into a stating environment where it can betested feature
+A developer can be manually approved and deploy it to production
+
+How to upload a project in git hub and deploye with vecel implement a basic cicd workfloe
+s
